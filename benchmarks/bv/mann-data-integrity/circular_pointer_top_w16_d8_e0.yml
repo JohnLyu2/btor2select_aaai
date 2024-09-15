@@ -1,0 +1,7 @@
+format_version: '2.0'
+
+input_files: 'circular_pointer_top_w16_d8_e0.btor2'
+
+properties:
+  - property_file: ../../../properties/unreach-call.prp
+    expected_verdict: false

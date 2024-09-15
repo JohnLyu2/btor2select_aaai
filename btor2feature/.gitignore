@@ -1,0 +1,5 @@
+*.o
+makefile
+
+.vscode/
+build/

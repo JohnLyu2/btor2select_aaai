@@ -1,0 +1,7 @@
+format_version: '2.0'
+
+input_files: 'eq_sdp_v7.btor2'
+
+properties:
+  - property_file: ../../../properties/unreach-call.prp
+    expected_verdict: false

@@ -1,0 +1,7 @@
+format_version: '2.0'
+
+input_files: 'brp2.4.prop3-func-interl.btor2'
+
+properties:
+  - property_file: ../../../properties/unreach-call.prp
+    expected_verdict: true
