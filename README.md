@@ -15,3 +15,9 @@ cd btor2feature
 cd build
 make
 ```
+
+## Reproducibility
+We provide a Jupyter Notebook `reproduce.ipynb` to interactively reproduce our results. 
+
+## HWMCC'24 Submission
+We submitted a sequential compositional verifier `Btor2-SelectMC` to [HWMCC'24](https://hwmcc.github.io/2024/) based on this work. Check our submission at this [Zenodo link](https://zenodo.org/records/13627812).
